@@ -1,7 +1,7 @@
 ### Olá eu sou o Rudiardi Alvarenga 👋
 
-- 🔭 I’m currently working on a solar project and a PDF converter/ 🇧r Estou trabalhando com projeto solar e um conversor PDF
-- 🌱 I’m currently learning Python and Power BI
+- 🔭 I'm working on some projects and looking to learn about many others/ 🇧r Estou trabalhando com alguns projetos e procurando aprender sobre muitos outros
+- 🌱 I’m currently learning Python, HTML, CSS, C and GO
 - 📫 contact: junior.alvarenga7@gmail.com
 
 <div align="center">
