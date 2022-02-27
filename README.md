@@ -1,7 +1,7 @@
 ### Olá eu sou o Rudiardi Alvarenga 👋
 
 - 🔭 I'm working on some projects and looking to learn about many others/ 🇧r Estou trabalhando com alguns projetos e procurando aprender sobre muitos outros
-- 🌱 I’m currently learning Python, HTML, CSS, C and GO
+- 🌱 I’m currently learning Python, HTML, CSS, C and JavaScript
 - 📫 contact: junior.alvarenga7@gmail.com
 
 <div align="center">
@@ -12,8 +12,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rudi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rudi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rudi-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Rudi-Wordpree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Rudi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rudi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Rudi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
 
    ##
