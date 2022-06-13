@@ -1,7 +1,7 @@
 ### Olá eu sou o Rudiardi Alvarenga 👋
 
 - 🔭 I'm working on some projects and looking to learn about many others/ 🇧r Estou trabalhando com alguns projetos e procurando aprender sobre muitos outros
-- 🌱 I’m currently learning Python, HTML, CSS, C and JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS, C and JavaScript (React-native)
 - 📫 contact: junior.alvarenga7@gmail.com
 
 <div align="center">
@@ -15,6 +15,7 @@
   <img align="center" alt="Rudi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rudi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Rudi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Rudi-React" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
    ##
